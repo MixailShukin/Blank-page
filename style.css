@@ -1,0 +1,22 @@
+
+
+.header{
+    width: auto;
+    height: 40px;
+    border: 4px solid black;
+}
+
+
+.sidebar{
+    width: 500px;
+    height: 150px;
+    border: 1px solid black;
+    float: left;
+}
+
+
+
+
+
+
+    
